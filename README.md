@@ -1,4 +1,4 @@
-# <div align="center">⚡ **DANG QUOC HUY** ⚡</div>
+# <div align="center">⚡ **DAM DINH HIEP** ⚡</div>
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=0,2,2,5,30&text=SOFTWARE%20ENGINEER&fontSize=50&fontColor=ffffff&stroke=00ff88&strokeWidth=2&animation=blinking&desc=Building%20the%20Future%20with%20Code&descSize=18&descAlignY=75" width="100%"/>
 </div>
 
@@ -215,24 +215,25 @@ class EliteDeveloper {
 
 ```yaml
 Team_Leadership:
+  teams_led: "5+ cross-functional teams"
+  team_size: "15-25 engineers"
+  methodologies: ["Agile/Scrum", "DevOps", "Lean Startup"]
+  
+Technical_Impact:
+  systems_architected: "20+ enterprise applications"
+  performance_improvements: "300-500% average"
+  cost_optimization: "40-60% infrastructure savings"
+  uptime_achieved: "99.95% average across all systems"
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"> **ELITE NETWORK**
-
-<div align="center">
-
-### 🌐 **CONNECT WITH THE ARCHITECT**
-
-[![Portfolio](https://img.shields.io/badge/🌟_Elite_Portfolio-00ff88?style=for-the-badge&logo=firefox&logoColor=white)](https://www.dangquochuy.id.vn/)
-[![LinkedIn](https://img.shields.io/badge/💼_Executive_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dangquochuy/)
-[![GitHub](https://img.shields.io/badge/⚡_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danieldev23)
-[![Email](https://img.shields.io/badge/📧_Direct_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dangquochuy.connect@gmail.com)
-
-### 🎯 **COLLABORATION OPPORTUNITIES**
-![Open for Work](https://img.shields.io/badge/💼_ENTERPRISE_CONSULTING-Available-00ff88?style=for-the-badge)
-![Speaking](https://img.shields.io/badge/🎤_TECH_SPEAKING-Available-00ff88?style=for-the-badge)
-![Mentoring](https://img.shields.io/badge/🧠_TECHNICAL_MENTORING-Available-00ff88?style=for-the-badge)
+Innovation_Metrics:
+  patents_filed: 3
+  open_source_contributions: "50+ repositories"
+  conference_talks: "12+ technical presentations"
+  mentorship: "25+ junior developers guided"
+```
 
 </div>
+
 
 ---
 
