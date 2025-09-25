@@ -23,7 +23,7 @@
 ```javascript
 class EliteDeveloper {
   constructor() {
-    this.name = "Dang Quoc Huy";
+    this.name = "Dam Dinh Hiep";
     this.title = "Junior Fullstack Developer";
     this.location = "Vietnam 🇻🇳";
     this.experience = "2+ years";
@@ -108,187 +108,8 @@ class EliteDeveloper {
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=412991)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=FFD21E)
 
-</div>
-
 ---
-## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="50"> **ACTIVITY HEATMAP**
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-
-**Key Features:**
-- 🎯 Real-time ML predictions
-- ⚡ Sub-second response times
-- 🔒 Enterprise-grade security
-- 📈 99.99% uptime SLA
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00ff88?style=for-the-badge)](/) 
-[![Source Code](https://img.shields.io/badge/📱_Source-black?style=for-the-badge&logo=github)](/)
-
-</td>
-<td width="50%">
-
-### 🏗️ **MICROSERVICES ARCHITECTURE**
-*Scalable e-commerce ecosystem*
-
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-
-**Architecture:**
-- 🔄 Event-driven design
-- 🌐 API Gateway pattern
-- 🔍 Distributed tracing
-- 📊 Real-time monitoring
-
-[![Architecture](https://img.shields.io/badge/🏛️_Architecture-00ff88?style=for-the-badge)](/) 
-[![Documentation](https://img.shields.io/badge/📚_Docs-blue?style=for-the-badge)](/)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 **DEVOPS AUTOMATION HUB**
-*CI/CD pipeline with intelligent deployment*
-
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-**Capabilities:**
-- 🚀 Zero-downtime deployments
-- 📊 Predictive scaling
-- 🔐 Security automation
-- 📈 Performance optimization
-
-[![Pipeline](https://img.shields.io/badge/⚙️_Pipeline-00ff88?style=for-the-badge)](/) 
-[![Metrics](https://img.shields.io/badge/📊_Metrics-orange?style=for-the-badge)](/)
-</td>
-<td width="50%">
-
-### 🌟 **BLOCKCHAIN DEFI PROTOCOL**
-*Decentralized finance with smart contracts*
-
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**Innovation:**
-- 💰 Automated yield farming
-- 🔄 Cross-chain compatibility
-- 🛡️ Multi-sig security
-- 📱 Mobile-first design
-
-[![DApp](https://img.shields.io/badge/🔗_DApp-00ff88?style=for-the-badge)](/) 
-[![Whitepaper](https://img.shields.io/badge/📄_Whitepaper-purple?style=for-the-badge)](/)
-
-</td>
-</tr>
-</table>
-
 </div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d3.gif" width="50"> **TECHNICAL CERTIFICATIONS**
-
-<div align="center">
-
-| **Cloud Platforms** | **DevOps & Security** | **Architecture** |
-|:---:|:---:|:---:|
-| ![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-Expert-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Kubernetes Administrator](https://img.shields.io/badge/Kubernetes_Administrator-CKA-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![System Design](https://img.shields.io/badge/System_Design-Expert-00ff88?style=for-the-badge&logo=systemd&logoColor=white) |
-| ![Azure DevOps Expert](https://img.shields.io/badge/Azure_DevOps-Expert-0078d4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![Docker Certified](https://img.shields.io/badge/Docker_Certified-Associate-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Microservices](https://img.shields.io/badge/Microservices-Architect-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white) |
-| ![Google Cloud Professional](https://img.shields.io/badge/GCP_Professional-Cloud_Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Security+](https://img.shields.io/badge/CompTIA_Security+-Certified-FF0000?style=for-the-badge&logo=comptia&logoColor=white) | ![Enterprise](https://img.shields.io/badge/Enterprise_Architecture-TOGAF-00ff88?style=for-the-badge&logo=enterprise&logoColor=white) |
-
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50"> **LEADERSHIP METRICS**
-
-<div align="center">
-
-```yaml
-Team_Leadership:
-  teams_led: "5+ cross-functional teams"
-  team_size: "15-25 engineers"
-  methodologies: ["Agile/Scrum", "DevOps", "Lean Startup"]
-  
-Technical_Impact:
-  systems_architected: "20+ enterprise applications"
-  performance_improvements: "300-500% average"
-  cost_optimization: "40-60% infrastructure savings"
-  uptime_achieved: "99.95% average across all systems"
-
-Innovation_Metrics:
-  patents_filed: 3
-  open_source_contributions: "50+ repositories"
-  conference_talks: "12+ technical presentations"
-  mentorship: "25+ junior developers guided"
-```
-
-</div>
-
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50"> **EXECUTIVE DASHBOARD**
-
-<div align="center">
-
-### 📈 **2025 STRATEGIC OBJECTIVES**
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**🚀 INNOVATION**
-- [ ] Launch 5 AI-powered products
-- [ ] Patent 2 breakthrough algorithms
-- [x] Lead digital transformation ✅
-- [ ] Speak at 10 major conferences
-
-</td>
-<td align="center" width="33%">
-
-**🌟 LEADERSHIP**
-- [ ] Scale engineering teams to 50+
-- [ ] Achieve 99.99% system reliability
-- [x] Implement DevOps excellence ✅
-- [ ] Establish center of excellence
-</td>
-<td align="center" width="33%">
-
-**🎯 IMPACT**
-- [ ] $10M+ cost optimization
-- [ ] 500% performance improvements
-- [x] Zero-downtime deployments ✅
-- [ ] Industry recognition awards
-
-</td>
-</tr>
-</table>
-
-### ⚡ **CURRENT FOCUS AREAS**
-
-```mermaid
-graph LR
-    A[🤖 AI/ML Integration] --> B[☁️ Cloud Architecture]
-    B --> C[🔧 DevOps Excellence]
-    C --> D[📊 Data Engineering]
-    D --> E[🔒 Security First]
-    E --> A
-```
-
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=0,2,2,5,30&section=footer&reversal=true&textBg=false&animation=blinking" width="100%"/>
 </div>
@@ -297,9 +118,7 @@ graph LR
 
 ### 💭 **PHILOSOPHY**
 *"In a world of infinite possibilities, architecture is the art of making the impossible, inevitable."*
-
 ---
-
 ### 🔥 **ELITE STATUS**
 ![Coding Time](https://img.shields.io/badge/Coding_Time-12%2B_hours-00ff88?style=for-the-badge&logo=clockify&logoColor=white)
 ![Coffee Driven](https://img.shields.io/badge/Coffee_Driven-100%25-00ff88?style=for-the-badge&logo=coffeescript&logoColor=white)
